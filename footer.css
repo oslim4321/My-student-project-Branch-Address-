@@ -1,0 +1,31 @@
+@import url("https://fonts.googleapis.com/css2?family=Rubik:ital,wght@0,300;0,400;0,500;0,600;0,700;0,800;0,900;1,300;1,400;1,500;1,600;1,700;1,800;1,900&display=swap");
+main {
+  font-family: "Rubik", sans-serif;
+}
+main section .footer {
+  background-color: #F2F2F2;
+  /* height: 100%; */
+}
+main section .footer .container .tCont {
+  color: #D60D0D;
+  font-size: 1rem;
+}
+main section .footer .container li {
+  font-size: 0.8rem;
+  line-height: 3rem;
+  list-style: none;
+}
+main section .footer .container li a {
+  text-decoration: none;
+  color: #666666;
+}
+main section .footer hr {
+  display: flex;
+  margin: 0 auto;
+  width: 95%;
+  border: 1px solid black !important;
+}
+main section .footer p {
+  color: #D60D0D;
+  font-size: 0.7rem;
+}
